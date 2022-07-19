@@ -61,5 +61,7 @@ if __name__ == "__main__":
  app.run(host='0.0.0.0', port=port)
 
 
-#  Creating app... done, ⬢ mysterious-temple-13697
-# https://mysterious-temple-13697.herokuapp.com/ | https://git.heroku.com/mysterious-temple-13697.git
+## NOTICE: THIS APP DOES NOT HAVE A DEFAULT ROUTE, YOU WILL GET AN ERROR UNLESS YOU HIT THE SPECIFIC ROUTES DEFINED IN MAIN.PY
+
+# Creating app... done, ⬢ gentle-journey-97666
+# https://gentle-journey-97666.herokuapp.com/ | https://git.heroku.com/gentle-journey-97666.git
